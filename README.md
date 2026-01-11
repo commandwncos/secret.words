@@ -1,6 +1,4 @@
-Claro! Segue um **README básico**, em português, adequado para uma aplicação **React com TypeScript (TSX)**, voltada para a interface do jogo **Secret Words**. Você pode adaptar nomes de pastas ou scripts se necessário.
 
----
 
 # Secret Words 🎮
 
